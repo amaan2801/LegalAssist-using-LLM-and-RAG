@@ -19,12 +19,6 @@ by grounding it in real documents.
 
 ---
 
-## Demo
-
-![Demo](assets_working_ss.png)
-
----
-
 ## How it works
 
 When you ask a question:
@@ -46,8 +40,6 @@ This approach is called RAG — Retrieval Augmented Generation.
 - **HuggingFace sentence-transformers** — converts text to vectors
 - **Streamlit** — the web interface
 - **Python 3.11**
-
----
 
 ---
 
