@@ -1,4 +1,4 @@
-# LegalAssist — AI Legal Assistant Using RAG
+# LegalAssist — AI Legal Assistant Using LLM and RAG
 
 A local AI assistant that answers questions about Indian patent and tax law,
 drafts legal documents, and maintains conversation history — all running
